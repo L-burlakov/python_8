@@ -45,7 +45,5 @@ happy_birthday(users)
     
     
     
-    
-    # if current_datetime.weekday() <=4:
-    #     start_of_week = 
+
     
